@@ -21,5 +21,4 @@ Aplicativo mobile para conectar pesquisadores, colaboradores e empresas.
 🔗 Repositório: https://github.com/fga-eps-mds/2025.2-Fuxi-Docs
 
 ## 📫 Contato
-- Email: seuemail
-- LinkedIn: (se tiver)
+- Email: leonardo.aquinobraga@gmail.com
