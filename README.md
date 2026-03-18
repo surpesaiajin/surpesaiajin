@@ -1,16 +1,25 @@
-## Hi there 👋
+# Leonardo de Aquino
 
-<!--
-**surpesaiajin/surpesaiajin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software (6º semestre) na Universidade de Brasília (UnB), com foco em desenvolvimento mobile e backend.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Python, JavaScript, TypeScript
+- React Native, Django REST Framework
+- PostgreSQL, SQLite
+- Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projeto em destaque
+
+### Vitra — Plataforma Mobile para Projetos Acadêmicos
+Aplicativo mobile para conectar pesquisadores, colaboradores e empresas.
+
+- React Native (TypeScript)
+- Django REST API
+- Autenticação por perfis
+- PostgreSQL
+
+🔗 Repositório: https://github.com/fga-eps-mds/2025.2-Fuxi-Docs
+
+## 📫 Contato
+- Email: seuemail
+- LinkedIn: (se tiver)
